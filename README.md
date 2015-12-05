@@ -1,2 +1,2 @@
 # gitmooc
-exemples pour mooc git
+Exercices pour mooc git
